@@ -1,0 +1,4 @@
+openpyxl==3.0.9
+playwright==1.21.0
+rich==12.3.0
+Scrapy==2.5.1
